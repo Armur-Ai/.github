@@ -2,7 +2,7 @@
 
 ### 🛡️ **Innovating AI-Driven Security and Development**
 
-Welcome to **Armur AI**, where we combine cutting-edge **AI technology** with deep expertise in **cybersecurity** and **software development** to create innovative solutions that **secure the future of code**.
+We're **Armur AI**, and we combine cutting-edge **AI technology** (latest LLMs, finetuned) with deep expertise in **cybersecurity** and **software development** to create innovative solutions that **secure the future of code**.
 
 ---
 
@@ -17,8 +17,9 @@ Welcome to **Armur AI**, where we combine cutting-edge **AI technology** with de
 - **Infrastructure Scanning:** Tools for analyzing Terraform files, Dockerfiles, and more.
 
 ### 🤝 **Services and Expertise**
-- **Staff Augmentation:** Hire world-class developers on demand.
-- **LLM Solutions:** Custom-built LLMs for your unique business needs.
+Some services we provide - 
+- **Security Audit:** We'll go through your web3 smart contracts with a fine comb and test them for security issues.
+- **Deep Checks:** Our security experts will check your repositories with complex code - GO, Rust, IaaC etc. and provide detailed reports.
 
 ---
 
@@ -26,10 +27,10 @@ Welcome to **Armur AI**, where we combine cutting-edge **AI technology** with de
 
 Explore our cutting-edge open-source contributions:
 
-1. **[Katana](#)** - Collaborative LLM agents for website vulnerability scanning.
-2. **[AI Code Scanner](#)** - The fastest static code scanner, combining the best tools in a single pipeline.
-3. **[Terraform Guard](#)** - Secure your infrastructure with powerful IaC scanning tools.
-
+1. **[AI Code Scanner](https://github.com/Armur-Ai/Armur-Code-Scanner)** - The fastest static code scanner, combining the best tools in a single pipeline.
+2. **[Katana](https://github.com/Armur-Ai/Katana-AI-Agents-for-website-vulnerabilities-scanning)** - Collaborative LLM agents for website vulnerability scanning.
+3. **[Auto Pentest GPT](https://github.com/Armur-Ai/Auto-Pentest-GPT-AI)** - Use LLMs to design automated attack paths and then execute them. Basically a pilot that has control to all security tools on your Kali Linux.
+ 
 ---
 
 ## 💡 **Why Armur AI?**
@@ -48,9 +49,9 @@ Explore our cutting-edge open-source contributions:
 - Become a part of the **Armur AI** community.
 
 ### 📬 **Connect With Us**
-- 🐦 **[Follow us on Twitter](#)**
-- 💼 **[Join us on LinkedIn](#)**
-- 📧 **[Email Us](mailto:contact@armurai.com)**
+- 🐦 **[Follow us on Twitter](https://x.com/armur_ai)**
+- 💼 **[Join us on LinkedIn](https://www.linkedin.com/company/armurai)**
+- 📧 **[Email Us](mailto:akhil@armur.ai)**
 
 ---
 
